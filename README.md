@@ -24,7 +24,6 @@ A kernel-mode DLL injector for Windows x64, using **APC (Asynchronous Procedure 
 
 - Windows 10/11 x64
 - Visual Studio 2022 with WDK (Windows Driver Kit)
-- Test signing enabled or a valid code signing certificate
 
 ## Build
 
