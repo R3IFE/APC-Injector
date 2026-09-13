@@ -30,4 +30,4 @@ A kernel-mode DLL injector for Windows x64, using **APC (Asynchronous Procedure 
 
 Open `kernelmode.sln` in Visual Studio and build in **Release x64**.
 
-> ⚠️ For educational purposes only.
+> For educational purposes only.
