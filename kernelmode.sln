@@ -1,0 +1,37 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "loader", "loader.vcxproj", "{1A1D8FEA-EF38-488C-A28D-545256E66C3C}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "driver", "driver.vcxproj", "{B2E3A7D1-4C5F-4E89-9A12-7D6B8C3E1F04}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "test_dll", "test_dll.vcxproj", "{A3C7E9B2-5D1F-4A8E-B6C4-2E9F7D3A1B05}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A1D8FEA-EF38-488C-A28D-545256E66C3C}.Debug|x64.ActiveCfg = Debug|x64
+		{1A1D8FEA-EF38-488C-A28D-545256E66C3C}.Debug|x64.Build.0 = Debug|x64
+		{1A1D8FEA-EF38-488C-A28D-545256E66C3C}.Release|x64.ActiveCfg = Release|x64
+		{1A1D8FEA-EF38-488C-A28D-545256E66C3C}.Release|x64.Build.0 = Release|x64
+		{B2E3A7D1-4C5F-4E89-9A12-7D6B8C3E1F04}.Debug|x64.ActiveCfg = Debug|x64
+		{B2E3A7D1-4C5F-4E89-9A12-7D6B8C3E1F04}.Debug|x64.Build.0 = Debug|x64
+		{B2E3A7D1-4C5F-4E89-9A12-7D6B8C3E1F04}.Release|x64.ActiveCfg = Release|x64
+		{B2E3A7D1-4C5F-4E89-9A12-7D6B8C3E1F04}.Release|x64.Build.0 = Release|x64
+		{A3C7E9B2-5D1F-4A8E-B6C4-2E9F7D3A1B05}.Debug|x64.ActiveCfg = Debug|x64
+		{A3C7E9B2-5D1F-4A8E-B6C4-2E9F7D3A1B05}.Debug|x64.Build.0 = Debug|x64
+		{A3C7E9B2-5D1F-4A8E-B6C4-2E9F7D3A1B05}.Release|x64.ActiveCfg = Release|x64
+		{A3C7E9B2-5D1F-4A8E-B6C4-2E9F7D3A1B05}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {97A931BD-8F86-4910-88D0-1C6A7206ACC7}
+	EndGlobalSection
+EndGlobal
